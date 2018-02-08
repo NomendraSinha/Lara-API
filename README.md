@@ -1,3 +1,2 @@
 # LaraAPI
-Laravel API using Passport Package
-Laravel 5.5.*
+Laravel API using Passport Package - Laravel 5.5.*
